@@ -16,14 +16,15 @@ The folder structure is organized by platform and topic of course:
 ├── freecodecamp/       # Certification courses and additional challenges
 ├── udemy/              # Code-along projects
 └── coddy-tech/         # Daily challenges
-```
 
+```
 # 🛠️ Technologies Used
 
 *   **Languages:** HTML5, CSS3, JavaScript (ES6+)
 *   **Frameworks & Libraries:** *Not yet*
 *   **Tools:** VS Code
 
+---
 ## 📈 Goals
 
 *   [ ] Complete the freeCodeCamp [*'Responsive Web Design'*](https://www.freecodecamp.org/learn/responsive-web-design-v9/) certification.
@@ -34,8 +35,9 @@ The folder structure is organized by platform and topic of course:
 *   [ ] Complete [*A1 Professional Spanish Certification*](https://www.freecodecamp.org/learn/a1-professional-spanish/) from freeCodeCamp.
 *   [X] Maintain a 30-day streak on [*Coddy.tech*](https://coddy.tech/user/2125anusha) doing daily challenges.
 
-```
+---
+
 Disclaimer: Most files in the practice repositories contain spaces in the titles for visual organization as they are just meant to be references to my practice and not to be run directly. Future project repositories will follow proper naming standards for a professional and functional execution.
-```
-Thanks for visiting my repository!
+
+---
 Thanks for visiting my repository!
