@@ -33,7 +33,7 @@ The folder structure is organized by platform and topic of course:
 *   [ ] Complete [*'Frontend for Beginners'*](https://www.sololearn.com/en/learn/courses/angular-developer) certificate course in Sololearn covering concept basics.
 *   [X]  Complete the [*JavaScript Fundamentals certificate*](https://coddy.tech/journeys/javascript/fundamentals) from Coddy.tech. [╰┈➤(Verify Certificate)](https://coddy.tech/certifications/lqepIN-javascript-Bi8cmJ)
 
-<img width="320" alt="coddy tech javascript fundamentals certificate" src="https://github.com/user-attachments/assets/31f39650-09bd-414b-b396-555e6d8f4e43" />
+<a href="https://coddy.tech/certifications/lqepIN-javascript-Bi8cmJ"><img width="320" alt="coddy tech javascript fundamentals certificate" src="https://github.com/user-attachments/assets/31f39650-09bd-414b-b396-555e6d8f4e43" /></a>
 
 *   [ ] Complete [*A1 Professional Spanish Certification*](https://www.freecodecamp.org/learn/a1-professional-spanish/) from freeCodeCamp.
 *   [X] Maintain a 30-day streak on [*Coddy.tech*](https://coddy.tech/user/2125anusha) doing daily challenges.
